@@ -10,7 +10,7 @@ A sales analytics dashboard built with Power BI Desktop using a star schema data
 - Top 10 Customers by Sales (bar chart)
 
 ## Data Model — Star Schema
-![Star Schema](schema/star_schema_diagram.png)
+<img width="1181" height="678" alt="Screenshot 2026-08-17 223735" src="https://github.com/user-attachments/assets/237a448f-30cd-4f8f-b07c-d0bf2659c75e" />
 
 ### Tables
 | Table | Type | Description |
